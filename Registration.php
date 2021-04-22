@@ -4,7 +4,7 @@
 	<title>Registration</title>
 </head>
 <body>
-	<form action="action_page.php">
+	<form action="database.php" method="POST">
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
@@ -32,4 +32,4 @@
 
 <?php 
 
- ?>
+?>
